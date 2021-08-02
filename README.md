@@ -1,3 +1,3 @@
-# Sea-Waves
+# Sea-Waves :warning:
 
-# WARNING: ongoing project! :warning:
+# WARNING: ongoing project! 
